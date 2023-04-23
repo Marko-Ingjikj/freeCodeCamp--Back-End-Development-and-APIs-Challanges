@@ -1,0 +1,14 @@
+{
+  "name": "imestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice for freeCodeCamp.com challange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "Marko Ingjikj",
+  "license": "ISC"
+}
